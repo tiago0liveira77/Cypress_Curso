@@ -1,2 +1,4 @@
 # Cypress_Curso
-Cypress - Curso Udemy
+Curso Udemy realizado em abril de 2023.
+
+Link: https://www.udemy.com/course/automated-testing-with-cypress/
